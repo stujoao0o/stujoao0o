@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I'm João, I study computer science and until now I mostly program in Python.
 
 <!--
 **stujoao0o/stujoao0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
